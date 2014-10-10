@@ -1,6 +1,6 @@
 
 /*
- * HashTreeSet
+ * SimpleSet
  * 10 de Octubre del 2014
  * María Isabel Fernández 13024
  * Ana Bartra 13643
