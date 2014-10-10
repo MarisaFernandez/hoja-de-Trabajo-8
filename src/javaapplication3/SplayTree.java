@@ -1,9 +1,14 @@
-    /**
-
-     *  Java Program to Implement SplayTree
+ /*
+ * SplayTree
+ * 10 de Octubre del 2014
+ * María Isabel Fernández 13024
+ * Ana Bartra 13643
+ * Andrés Lainfiesta 13072
+ * Maria Gabriela López 13056
+ *  Java Program to Implement SplayTree
 	Codigo obtenido de http://www.sanfoundry.com/java-program-implement-splay-tree/
-     **/
-     /** Class SplayTree **/
+ */
+ 
     public class SplayTree
      {
          private SplayNode root;
