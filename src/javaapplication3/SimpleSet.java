@@ -1,11 +1,13 @@
-/*
-UVG
-Algoritmos y Estructuras de Datos - 2011
-Hoja de trabajo 7
-Autor: Eduardo Castellanos
 
-Descripci�n: SimpleSet ejemplo con ArrayList.
-*/
+/*
+ * HashTreeSet
+ * 10 de Octubre del 2014
+ * María Isabel Fernández 13024
+ * Ana Bartra 13643
+ * Andrés Lainfiesta 13072
+ * Maria Gabriela López 13056
+ */
+ 
 import java.util.ArrayList;
 
 class SimpleSet implements WordSet
