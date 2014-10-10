@@ -1,11 +1,12 @@
 /*
-UVG
-Algoritmos y Estructuras de Datos - 2011
-Hoja de trabajo 7 
-Autor: Eduardo Castellanos
-
-Descripci�n: Word. Clase para almacenar las palabras junto con su tipo. 
-*/
+ * HashTreeSet
+ * 10 de Octubre del 2014
+ * María Isabel Fernández 13024
+ * Ana Bartra 13643
+ * Andrés Lainfiesta 13072
+ * Maria Gabriela López 13056
+ */
+ 
 class Word implements Comparable<Word> {
 	private String word;
 	private String type;
@@ -34,7 +35,7 @@ class Word implements Comparable<Word> {
 		return (obj instanceof Word && getWord().equals(((Word)obj).getWord()));
 	}
 	
-	// M�todos de acceso..
+	// Métodos de acceso..
 	public void setWord(String word)
 	{
 		this.word=word;
