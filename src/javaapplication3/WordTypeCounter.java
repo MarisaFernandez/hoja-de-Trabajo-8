@@ -1,12 +1,12 @@
-
 /*
-UVG
-Algoritmos y Estructuras de Datos - 2011
-Hoja de trabajo 7
-Autor: Eduardo Castellanos
-
-Descripci�n: Programa principal. 
-*/
+ * WordTypeCounter
+ * 10 de Octubre del 2014
+ * María Isabel Fernández 13024
+ * Ana Bartra 13643
+ * Andrés Lainfiesta 13072
+ * Maria Gabriela López 13056
+ */
+ 
 import java.io.*;
 import java.io.BufferedReader;
 import java.io.File;
