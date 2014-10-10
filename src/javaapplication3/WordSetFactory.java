@@ -1,11 +1,12 @@
 /*
-UVG
-Algoritmos y Estructuras de Datos - 2011
-Hoja de trabajo 7 
-Autor: Eduardo Castellanos
-
-Descripci�n: WordSetFactory. Clase  utilizada para instanciar los diferentes tipos de sets. 
-*/
+ * WordSetFactory
+ * 10 de Octubre del 2014
+ * María Isabel Fernández 13024
+ * Ana Bartra 13643
+ * Andrés Lainfiesta 13072
+ * Maria Gabriela López 13056
+ */
+ 
 class WordSetFactory {
 	
 	// Metodo que genera un objeto que implementa WordSet
