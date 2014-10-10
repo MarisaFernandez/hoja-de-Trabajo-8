@@ -1,22 +1,31 @@
+/*
+ * RedBlackTreeSet
+ * 10 de Octubre del 2014
+ * Mar√≠a Isabel Fern√°ndez 13024
+ * Ana Bartra 13643
+ * Andr√©s Lainfiesta 13072
+ * Maria Gabriela L√≥pez 13056
+ */
+ 
 public class RedBlackTreeSet implements WordSet{
    //-----------------------------------------------------------------------
     private RedBlackTree<Word> rbt;
    
     //------------------------------------------------------------------------
-    // MÈtodos
+    // M√©todos
     //------------------------------------------------------------------------
 
     /*
-     * Constructor que crea la nueva implementaciÛn a utilizar.
+     * Constructor que crea la nueva implementaci√≥n a utilizar.
      * @pre: -
-     * @post: Se construye la implementaciÛn.
+     * @post: Se construye la implementaci√≥n.
      */
     public RedBlackTreeSet(){
         rbt = new RedBlackTree<Word>();
     }
 
     /*
-     * MÈtodo que agrega una nueva palabra al conjunto.
+     * M√©todo que agrega una nueva palabra al conjunto.
      * pre: -
      * post: Se agrega la palabra.
      * parametros wordObject
@@ -27,7 +36,7 @@ public class RedBlackTreeSet implements WordSet{
     }
 
     /*
-     * MÈtodo que obtiene y determina si existe una palabra en el conjunto.
+     * M√©todo que obtiene y determina si existe una palabra en el conjunto.
      * pre: La palabra debe existir.
      * post: Se regresa la palabra.
      * parametros word
